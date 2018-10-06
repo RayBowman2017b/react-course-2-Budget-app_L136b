@@ -1,0 +1,35 @@
+z32_Notes.txt
+
+echo "# react-course-2-Budget-app_L135b" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+        git remote add origin git@github.com:RayBowman2017b/react-course-2-Budget-app_L135b.git
+git remote add Budget-app_L135b git@github.com:RayBowman2017b/react-course-2-Budget-app_L135b.git
+        git push -u origin master
+git push -u Budget-app_L135b master
+
+
+
+heroku -v
+
+heroku login
+
+wally96334@gmail.com
+Rbx2uvjc/
+
+> heroku --version
+
+    > heroku create react-2018-09-budget
+> heroku create react-2018-09-budget-135b
+
+sets up app location
+sets up git remote
+
+> git remote
+> git remote -v
+
+
+K:\A01_Udemy\C023_Complete_React_Web_Dev\Budget-app-L135b>heroku create react-2018-09-budget-135b
+Creating ⬢ react-2018-09-budget-135b... done
+https://react-2018-09-budget-135b.herokuapp.com/ | https://git.heroku.com/react-2018-09-budget-135b.git

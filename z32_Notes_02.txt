@@ -1,0 +1,36 @@
+z32_Notes_02.txt
+
+
+echo "# react-course-2-Budget-app_L136b" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+    git remote add origin git@github.com:RayBowman2017b/react-course-2-Budget-app_L136b.git
+git remote add Budget-app_L136b git@github.com:RayBowman2017b/react-course-2-Budget-app_L136b.git
+git push -u Budget-app_L136b master
+
+
+//  SEC_013 --- 136. Deploying with Heroku 16:44
+
+heroku -v
+
+heroku login
+
+wally__4@__.com
+R___/
+
+> heroku --version
+
+> heroku create react-2018-09-budget
+
+> git remote
+> git remote -v
+
+> git add .
+  > git commit -m "Setup production build and server"
+
+K:\A01_Udemy\C023_Complete_React_Web_Dev\Budget-app>git commit -m "2018-10-05 22-22 working version"
+
+> git push
+> git push heroku master
+
